@@ -1,0 +1,13 @@
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.reset {
+    position: fixed;
+    left: 43%;
+    top: 2%;
+    width: 15%;
+    aspect-ratio: 19/6;
+}
